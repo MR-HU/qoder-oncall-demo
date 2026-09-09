@@ -1,0 +1,5 @@
+2026-09-09T10:15:22Z ERROR order-service order_id=order-1001
+订单金额异常：expected=80.00 actual=99.80 price=100.00 quantity=1 discount=0.20
+
+2026-09-09T10:16:04Z ERROR order-service order_id=order-1002
+订单金额异常：expected=90.00 actual=99.90 price=25.00 quantity=4 discount=0.10
